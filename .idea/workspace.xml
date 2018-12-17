@@ -25,7 +25,7 @@
         <entry file="file://$PROJECT_DIR$/02pandas.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="17" />
+              <selected id="18" />
             </state>
           </provider>
         </entry>
@@ -72,9 +72,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-182" />
-    <option name="y" value="203" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="73" />
+    <option name="y" value="8" />
     <option name="width" value="1586" />
     <option name="height" value="946" />
   </component>
@@ -229,10 +229,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="73" y="8" width="1586" height="946" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10273973" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.125969" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -243,7 +243,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.329718" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.46312365" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.5258621" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.329718" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -324,7 +324,7 @@
     <entry file="file://$PROJECT_DIR$/02pandas.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="17" />
+          <selected id="18" />
         </state>
       </provider>
     </entry>
