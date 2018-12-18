@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2fea091-cc26-408b-980b-0beb1c60f6b9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/02b-pandas.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03b_matplotlib.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03matplotlib.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04datasci.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02b-pandas.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/02b-pandas.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02b_pandas.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/02b_pandas.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/02pandas.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/02pandas.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,7 +36,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/02b-pandas.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
@@ -44,16 +49,25 @@
         <entry file="file://$PROJECT_DIR$/02b_pandas.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="0" />
+              <selected id="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/03b_matplotlib.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/00intro.ipynb">
+        <entry file="file://$PROJECT_DIR$/04datasci.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="12" />
+              <selected id="10" />
             </state>
           </provider>
         </entry>
@@ -77,16 +91,19 @@
         <option value="$PROJECT_DIR$/venv/00intro.py" />
         <option value="$PROJECT_DIR$/00intro.ipynb" />
         <option value="$PROJECT_DIR$/numpy.ipynb" />
-        <option value="$PROJECT_DIR$/02b_pandas.ipynb" />
         <option value="$PROJECT_DIR$/02pandas.ipynb" />
+        <option value="$PROJECT_DIR$/02b-pandas.ipynb" />
+        <option value="$PROJECT_DIR$/02b_pandas.ipynb" />
+        <option value="$PROJECT_DIR$/03matplotlib.ipynb" />
+        <option value="$PROJECT_DIR$/03b_matplotlib.ipynb" />
+        <option value="$PROJECT_DIR$/04datasci.ipynb" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="73" />
-    <option name="y" value="8" />
-    <option name="width" value="1586" />
-    <option name="height" value="946" />
+    <option name="x" value="71" />
+    <option name="width" value="1481" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -131,6 +148,11 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\stacy\py1901" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -239,10 +261,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="73" y="8" width="1586" height="946" extended-state="0" />
+    <frame x="71" y="0" width="1481" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.125969" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.008566978" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -253,7 +275,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.329718" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.5258621" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.04381161" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.329718" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -324,10 +346,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02b_pandas.ipynb">
+    <entry file="file://$PROJECT_DIR$/04datasci.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="0" />
+          <selected id="10" />
         </state>
       </provider>
     </entry>
@@ -342,6 +364,27 @@
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03matplotlib.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02b_pandas.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03b_matplotlib.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="5" />
         </state>
       </provider>
     </entry>
